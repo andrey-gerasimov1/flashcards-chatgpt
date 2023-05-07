@@ -1,4 +1,4 @@
-# flashcards-chatgpt-tutorial
+# flashcards chatgpt
 Program written in python that uses chatGPT to optimize answering questions from flashcards
 ![chatgpt_flashcard_tutorial_1](https://user-images.githubusercontent.com/126431978/236706029-863c6cad-af9a-4aff-9e62-dfcee1149a28.gif)
 
